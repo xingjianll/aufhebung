@@ -1,0 +1,10 @@
+name = "aufhebung"
+version = "0.1.0"
+defaultTargets = ["aufhebung"]
+
+[[lean_lib]]
+name = "Aufhebung"
+
+[[lean_exe]]
+name = "aufhebung"
+root = "Main"
